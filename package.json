@@ -1,0 +1,29 @@
+{
+  "name": "com.unity.film-tv.toolbox",
+  "displayName": "Film and TV Toolbox",
+  "version": "0.1.0-preview.1",
+  "unity": "2018.3",
+  "description": "This package is a collection of experimental, proof of concept or helper tools for Film / TV productions.",
+  "keywords": [
+    "film",
+    "TV",
+    "Tools",
+    "Samples"
+  ],
+  "dependencies": {},
+  "relatedPackages": {
+    "com.unity.film-tv.toolbox.tests": "0.1.0-preview.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Unity-Technologies/film-tv-toolbox.git",
+    "revision": "56ef1ac88fb527ca75b242bc4b5ce4fa216e1555"
+  },
+  "samples": [
+    {
+      "displayName": "ShotgunCSVImportExport",
+      "description": "This shows how to create a timeline in Unity using a shot sequence from a Shotgun CSV export and export back modifications.",
+      "path": "Samples~/ShotgunCSVImportExport"
+    }
+  ]
+}
