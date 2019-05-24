@@ -1,7 +1,7 @@
 {
   "name": "com.unity.film-tv.toolbox",
   "displayName": "Film and TV Toolbox",
-  "version": "0.1.0-preview.1",
+  "version": "0.2.0-preview.1",
   "unity": "2018.3",
   "description": "This package is a collection of experimental, proof of concept or helper tools for Film / TV productions.",
   "keywords": [
@@ -12,12 +12,12 @@
   ],
   "dependencies": {},
   "relatedPackages": {
-    "com.unity.film-tv.toolbox.tests": "0.1.0-preview.1"
+    "com.unity.film-tv.toolbox.tests": "0.2.0-preview.1"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com:Unity-Technologies/film-tv-toolbox.git",
-    "revision": "56ef1ac88fb527ca75b242bc4b5ce4fa216e1555"
+    "revision": "1731a3e22a9a08991d6374151e36c1003eb86366"
   },
   "samples": [
     {
